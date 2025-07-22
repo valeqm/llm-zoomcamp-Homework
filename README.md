@@ -29,6 +29,14 @@ This is where I've uploaded the assignments I've completed for the **Datatalks L
 📄[**Workshop**](Workshop/)
 
 
+#### Module A: Agents (bonus)
+
+- Adding Agentic functionality to RAG
+- Function calling
+
+📄[**Agents**](Agents/)
+
+
 ### Module 3: Evaluation
 
 * Search evaluation
