@@ -29,7 +29,7 @@ This is where I've uploaded the assignments I've completed for the **Datatalks L
 📄[**Workshop**](Workshop/)
 
 
-#### Module A: Agents (bonus)
+### Module A: Agents (bonus)
 
 - Adding Agentic functionality to RAG
 - Function calling
