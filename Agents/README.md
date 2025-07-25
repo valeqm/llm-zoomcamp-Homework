@@ -1,8 +1,6 @@
 ## Homework: Agents
 
-In this homework, we will learn more about function calling,
-and we will also explore MCP - model-context protocol. 
-
+"THIS README FILE HAS BEEN MODIFIED TO INCLUDE THE STEPS AND SOLUTIONS FOR THE HOMEWORK."
 
 ## Preparation
 
